@@ -1,40 +1,39 @@
 # adultos_domain
 Lista de sites adultos
 
-**Starting from 1st September, 2021 there won't be any further DNS checks anymore. A small virtual server was in place for this but it's getting too expensive now.**
-
 ---
 
-# Porn Domains
-This list is a collection of bunch of domains that relate to adult content, mainly porn websites.
+# Domínios Pornográficos
 
-## ![#ff0000](https://placehold.co/15/ff0000/ff0000) PLEASE NOTICE:
-There have been a lot of effort put into this repository to make sure the domains are all valid. Also the DNS checks are run with caution to make sure to avoid false results as much as possible. But keep in mind that things change so quickly. **THERE IS NO WARRANTY GIVEN THAT THESE LISTS ARE 100% ACCURATE. USE THEM AT YOUR OWN RISK, ESPECIALLY IN PRODUCTION.**
+Esta lista é uma coleção de vários domínios relacionados a conteúdo adulto, principalmente sites pornográficos.
+
+## ![#ff0000](https://placehold.co/15/ff0000/ff0000) OBSERVE:
+Muito esforço foi feito neste repositório para garantir que todos os domínios sejam válidos. Além disso, as verificações de DNS são executadas com cuidado para evitar resultados falsos o máximo possível. Mas tenha em mente que as coisas mudam muito rapidamente. **NÃO HÁ GARANTIA DE QUE ESTAS LISTAS SÃO 100% PRECISAS. USE-OS POR SUA CONTA E RISCO, ESPECIALMENTE NA PRODUÇÃO.**
 
 ### [block.txt](https://github.com/Bon-Appetit/porn-domains/blob/master/block.txt)
-Contains all domains which are used for porn websites line by line. Domains from ignore.txt and white.txt are removed from here.
+Contém todos os domínios usados ​​para sites pornográficos linha por linha. Os domínios de ignore.txt e white.txt são removidos daqui.
 
 ### [ignore.txt](https://github.com/Bon-Appetit/porn-domains/blob/master/ignore.txt)
-A list of domains which have been tested for their availability. Those domains are no longer registered or do not have any valid DNS records which also makes them unable to access.
+Uma lista de domínios cuja disponibilidade foi testada. Esses domínios não estão mais registrados ou não possuem nenhum registro DNS válido, o que também os torna incapazes de acessar.
 
 ### [white.txt](https://github.com/Bon-Appetit/porn-domains/blob/master/white.txt)
-Here you can find domains which are false listed or whose content has changed.
+Aqui você pode encontrar domínios que estão listados como falsos ou cujo conteúdo foi alterado.
 
-#### Something's missing?
-Adding individual domains is no longer supported. Instead please submit a GitHub-Repository pointing to a list of domains.
+#### Algo está faltando?
+A adição de domínios individuais não é mais suportada. Em vez disso, envie um GitHub-Repository apontando para uma lista de domínios.
 
-Say you want to add the following source:
+Digamos que você queira adicionar a seguinte fonte:
 https://github.com/user/repository/blob/branch/file.txt
 
-You must provide the direct link to the raw content of the new source, e.g.:
+Você deve fornecer o link direto para o conteúdo bruto da nova fonte, por exemplo:
 
 ```
 https://raw.githubusercontent.com/user/repository/branch/file.txt
 ```
 
-File an issue ticket with the link to the new source or add it to the ([sources.json](https://github.com/Bon-Appetit/porn-domains/blob/master/sources.json)) and send a pull request.
+Arquive um ticket de emissão com o link para a nova fonte ou adicione-o ao ([sources.json](https://github.com/Bon-Appetit/porn-domains/blob/master/sources.json)) e envie uma solicitação de pull.
 
 
-Feel free to also report domains which are no longer used for such explicit content. You can file an issue ticket or send a pull request with your updated whitelist ([white.txt](https://github.com/Bon-Appetit/porn-domains/blob/master/white.txt)).
+Sinta-se à vontade para também denunciar domínios que não são mais usados ​​para tal conteúdo explícito. Você pode registrar um ticket de emissão ou enviar uma solicitação pull com sua lista de permissões atualizada ([white.txt](https://github.com/Bon-Appetit/porn-domains/blob/master/white.txt)).
 
-Thank you!
+Obrigado!
