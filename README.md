@@ -2,7 +2,6 @@
 Lista de sites adultos
 
 ---
-
 # Domínios Pornográficos
 
 Esta lista é uma coleção de vários domínios relacionados a conteúdo adulto, principalmente sites pornográficos.
@@ -38,10 +37,30 @@ Sinta-se à vontade para também denunciar domínios que não são mais usados �
 
 os créditos é do https://github.com/Bon-Appetit
 
-<img src="images/pfsenselogo.png" alt="Pfsense" width="20%"><img src="images/pfsenselogo.png" alt="Pfsense" width="20%">
+<img src="images/pfsenselogo.png" alt="Pfsense" width="20%"><img src="images/pfblockerlogo.png" alt="Pfsense" width="20%">
 
 # Implementar lista Personalizada Pfblocker
-Porem utilizo utilizo para o ** PFblocker **
+Porem utilizo utilizo para o **PFblocker**
 irei agora deixar o meu tutorial de como aproveitar a lista:
+
+# PFblocker 
+	##Menu
+		####DNSBL / DNSBL Groups
+		
+##### Name / Description:
+
+#### Source:							Header/Label:
+
+## Settings
+
+	Action: **Unbound**
+
+<img src="images/img3.png" alt="pfblocker" width="20%">
+
+<img src="images/img4.png" alt="pfblocker" width="20%">
+
+<img src="images/img5.png" alt="pfblocker" width="20%">
+
+<img src="images/img6.png" alt="pfblocker" width="20%">
 
 
