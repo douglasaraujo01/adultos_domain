@@ -44,15 +44,15 @@ Porem utilizo utilizo para o **PFblocker**
 irei agora deixar o meu tutorial de como aproveitar a lista:
 
 # PFblocker 
-##Menu
+## Menu
 
          **DNSBL / DNSBL Groups**
 		 
 
 
-###Name / Description:
+### Name / Description:
 
-###Source:							Header/Label:
+### Source:							Header/Label:
 
 ## Settings
 
