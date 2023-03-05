@@ -36,4 +36,10 @@ Arquive um ticket de emissão com o link para a nova fonte ou adicione-o ao ([so
 
 Sinta-se à vontade para também denunciar domínios que não são mais usados ​​para tal conteúdo explícito. Você pode registrar um ticket de emissão ou enviar uma solicitação pull com sua lista de permissões atualizada ([white.txt](https://github.com/Bon-Appetit/porn-domains/blob/master/white.txt)).
 
-Obrigado!
+os créditos é do https://github.com/Bon-Appetit
+
+# Implementar lista Personalizada Pfblocker
+Porem utilizo utilizo para o #### PFblocker
+irei agora deixar o meu tutorial de como aproveitar a lista:
+
+
