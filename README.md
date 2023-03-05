@@ -10,13 +10,13 @@ Esta lista é uma coleção de vários domínios relacionados a conteúdo adulto
 ## ![#ff0000](https://placehold.co/15/ff0000/ff0000) OBSERVE:
 Muito esforço foi feito neste repositório para garantir que todos os domínios sejam válidos. Além disso, as verificações de DNS são executadas com cuidado para evitar resultados falsos o máximo possível. Mas tenha em mente que as coisas mudam muito rapidamente. **NÃO HÁ GARANTIA DE QUE ESTAS LISTAS SÃO 100% PRECISAS. USE-OS POR SUA CONTA E RISCO, ESPECIALMENTE NA PRODUÇÃO.**
 
-### [block.txt](https://github.com/Bon-Appetit/porn-domains/blob/master/block.txt)
+### [block.txt](https://raw.githubusercontent.com/douglasaraujo01/adultos_domain/main/block.txt)
 Contém todos os domínios usados ​​para sites pornográficos linha por linha. Os domínios de ignore.txt e white.txt são removidos daqui.
 
-### [ignore.txt](https://github.com/Bon-Appetit/porn-domains/blob/master/ignore.txt)
+### [ignore.txt](https://github.com/douglasaraujo01/adultos_domain/blob/main/ignore.txt)
 Uma lista de domínios cuja disponibilidade foi testada. Esses domínios não estão mais registrados ou não possuem nenhum registro DNS válido, o que também os torna incapazes de acessar.
 
-### [white.txt](https://github.com/Bon-Appetit/porn-domains/blob/master/white.txt)
+### [white.txt](https://raw.githubusercontent.com/douglasaraujo01/adultos_domain/main/white.txt)
 Aqui você pode encontrar domínios que estão listados como falsos ou cujo conteúdo foi alterado.
 
 #### Algo está faltando?
