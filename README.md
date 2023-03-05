@@ -35,7 +35,7 @@ Arquive um ticket de emissão com o link para a nova fonte ou adicione-o ao ([so
 
 Sinta-se à vontade para também denunciar domínios que não são mais usados ​​para tal conteúdo explícito. Você pode registrar um ticket de emissão ou enviar uma solicitação pull com sua lista de permissões atualizada ([white.txt](https://github.com/Bon-Appetit/porn-domains/blob/master/white.txt)).
 
-os créditos é do https://github.com/Bon-Appetit
+#### Criado por: https://github.com/Bon-Appetit
 
 <img src="images/pfsenselogo.png" alt="Pfsense" width="20%"><img src="images/pfblockerlogo.png" alt="Pfsense" width="20%">
 
@@ -44,23 +44,14 @@ Porem utilizo utilizo para o **PFblocker**
 irei agora deixar o meu tutorial de como aproveitar a lista:
 
 # PFblocker 
-## Menu
 
-         **DNSBL / DNSBL Groups**
-		 
+<img src="images/img1.png" alt="pfblocker" width="20%">
 
+<img src="images/img2.png" alt="pfblocker" width="20%">
 
-### Name / Description:
-
-### Source:							Header/Label:
-
-## Settings
-
-	Action: **Unbound**
-
-<img src="images/img3.png" alt="pfblocker" width="20%">
-
-<img src="images/img4.png" alt="pfblocker" width="20%">
+```
+source:	https://raw.githubusercontent.com/douglasaraujo01/adultos_domain/main/block.txt
+```
 
 <img src="images/img5.png" alt="pfblocker" width="20%">
 
