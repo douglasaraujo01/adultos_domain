@@ -37,9 +37,8 @@ Sinta-se à vontade para também denunciar domínios que não são mais usados �
 
 #### Criado por: https://github.com/Bon-Appetit
 
-<img src="images/pfsenselogo.png" align="left" alt="Pfsense" width="20%" vspace="5" hspace="5" >
-<img src="images/pfblockerlogo.png" align="right" alt="pfblocker" width="20%" vspace="5" hspace="5" >
-<>
+<img src="images/pfsenselogo.png" align="left" alt="Pfsense" width="20%" hspace="5" >
+<img src="images/pfblockerlogo.png" align="right" alt="pfblocker" width="20%" vspace="30" hspace="5" >
 
 
 # Implementar lista Personalizada Pfblocker
