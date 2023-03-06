@@ -37,24 +37,28 @@ Sinta-se à vontade para também denunciar domínios que não são mais usados �
 
 #### Criado por: https://github.com/Bon-Appetit
 
-<img src="images/pfsenselogo.png" alt="Pfsense" width="20%"><img src="images/pfblockerlogo.png" alt="Pfsense" width="20%">
+<img src="images/pfsenselogo.png" align="left"alt="Pfsense" width="20%">
+<img src="images/pfblockerlogo.png" align="right" alt="pfblocker" width="20%">
 
 # Implementar lista Personalizada Pfblocker
 Porem utilizo utilizo para o **PFblocker**
 irei agora deixar o meu tutorial de como aproveitar a lista:
 
-# PFblocker 
+## PFblocker 
 
-<img src="images/img1.png" alt="pfblocker" width="20%">
+<img src="images/img1.png" alt="pfblocker" width="100%">
 
-<img src="images/img2.png" alt="pfblocker" width="20%">
+<img src="images/img2.png" alt="pfblocker" width="100%">
 
 ```
-source:	https://raw.githubusercontent.com/douglasaraujo01/adultos_domain/main/block.txt
+### DNSBL Source Definitions
+### source:	https://raw.githubusercontent.com/douglasaraujo01/adultos_domain/main/block.txt
 ```
+## Save DNSBL Settings
 
-<img src="images/img5.png" alt="pfblocker" width="20%">
+Após isso vai em **Update**
 
-<img src="images/img6.png" alt="pfblocker" width="20%">
-
-
+```
+Select 'Force' option: **Reload**
+Select 'Reload' option: **DNSBL**
+```
