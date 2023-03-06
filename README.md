@@ -54,7 +54,7 @@ irei agora deixar o meu tutorial de como aproveitar a lista:
 DNSBL Source Definitions
 source:	https://raw.githubusercontent.com/douglasaraujo01/adultos_domain/main/block.txt
 ```
-<img src="images/img3.png" alt="pfblocker" width="10%">
+<img src="images/img3.png" alt="pfblocker" width="15%">
 
 Após isso vai em **Update**
 
