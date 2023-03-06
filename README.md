@@ -51,14 +51,14 @@ irei agora deixar o meu tutorial de como aproveitar a lista:
 <img src="images/img2.png" alt="pfblocker" width="100%">
 
 ```
-### DNSBL Source Definitions
-### source:	https://raw.githubusercontent.com/douglasaraujo01/adultos_domain/main/block.txt
+DNSBL Source Definitions
+source:	https://raw.githubusercontent.com/douglasaraujo01/adultos_domain/main/block.txt
 ```
 ## Save DNSBL Settings
 
 Após isso vai em **Update**
 
 ```
-Select 'Force' option: **Reload**
-Select 'Reload' option: **DNSBL**
+Select 'Force' option: Reload
+Select 'Reload' option: DNSBL
 ```
