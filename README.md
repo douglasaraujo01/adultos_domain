@@ -1,5 +1,6 @@
 # adultos_domain
-Lista de sites adultos
+Lista de sites adultos aproveitando o projeto do Bon-Appetit para personalizar 
+seu PFblocker em DNSBL
 
 ---
 # Domínios Pornográficos
