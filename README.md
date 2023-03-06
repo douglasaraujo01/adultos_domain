@@ -40,6 +40,8 @@ Sinta-se à vontade para também denunciar domínios que não são mais usados �
 <img src="images/pfsenselogo.png" align="left" alt="Pfsense" width="20%">
 <img src="images/pfblockerlogo.png" align="right" alt="pfblocker" width="20%">
 
+
+
 # Implementar lista Personalizada Pfblocker
 Porem utilizo utilizo para o **PFblocker**
 irei agora deixar o meu tutorial de como aproveitar a lista:
