@@ -39,7 +39,7 @@ Sinta-se à vontade para também denunciar domínios que não são mais usados �
 
 <div>
 <img src="images/pfsenselogo.png" align="left" alt="Pfsense" width="20%" style="margin-right: 10px; >
-<img src="images/pfblockerlogo.png" align="right" alt="pfblocker" width="20%" vspace="50" hspace="5" >
+<img src="images/pfblockerlogo.png" align="right" alt="pfblocker" width="20%" style="margin-right: 10px; >
 </div>
 
 # Implementar lista Personalizada Pfblocker
